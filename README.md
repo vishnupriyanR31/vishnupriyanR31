@@ -17,7 +17,7 @@
 - 🔭 Exploring **Machine Learning, Deep Learning & Data Analytics**
 - 🌱 Learning new frameworks and tools every day
 - 💬 Ask me about **Python, ML, Data Science**
-- ⚡ Fun fact: I love turning data into decisions
+  
 
 ---
 
